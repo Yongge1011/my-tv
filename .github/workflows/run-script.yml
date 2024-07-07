@@ -25,7 +25,7 @@ jobs:
     
     - name: 运行 Python 脚本
       run: |
-        python script.py  # 替换成你的实际脚本名
+        python iptv.py  # 替换成你的实际脚本名
         
     - name: 上传文件
       if: success()
