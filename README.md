@@ -3,7 +3,7 @@
 安卓电视直播软件，内置直播源
 
 # 代理
-https://mirror.ghproxy.com/
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Yongge1011/my-tv/main/stations.m3u
 
 # 酒店源
 http://foodieguide.com/iptvsearch/hoteliptv.php
