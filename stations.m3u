@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1,tvg-id="CCTV-1HD" tvg-name="CCTV-1 HD" tvg-logo="http://example.com/logo/CCTV-1HD.png" group-title="CCTV央视",CCTV-1 HD
  http://114.246.102.14:4000/rtp/239.3.1.129:8008
 #EXTINF:-1,tvg-id="CCTV-2HD" tvg-name="CCTV-2 HD" tvg-logo="http://example.com/logo/CCTV-2HD.png" group-title="CCTV央视",CCTV-2 HD
