@@ -15,3 +15,11 @@ https://colab.research.google.com/drive/1vQgGUd9_a_6GoE_WFg7fszcZmoa72ojL
 
 下载安装 [releases](https://github.com/lizongying/my-tv/releases/)
 
+
+# 网友源
+https://github.com/jisoypub/iptv
+
+https://mirror.ghproxy.com/https://github.com/jisoypub/iptv/blob/main/ipv4.m3u
+https://mirror.ghproxy.com/https://github.com/jisoypub/iptv/blob/main/ipv4_2.m3u
+
+https://mirror.ghproxy.com/https://github.com/jisoypub/iptv/blob/main/ipv6.m3u
